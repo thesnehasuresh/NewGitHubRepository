@@ -1,1 +1,2 @@
 Hi,This is my new File!
+Adding a comment: I am learning Git
